@@ -36,7 +36,7 @@
   <p align="center">
     Bot español para buscar amigos en FateGO NA y JP
     <br />
-    <a href="https://github.com/IsaacZM/Mashu-v4-Documentacion"><strong>Entrar en la wiki »</strong></a>
+    <a href="https://github.com/IsaacZM/Mashu-v4-Documentacion/wiki"><strong>Entrar en la wiki »</strong></a>
     <br />
     <br />
     <a href="https://mashu.proyectograndorder.es">Pagina Web</a>
