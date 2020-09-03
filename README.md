@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el bot
 
-[![Product Name Screen Shot][product-screenshot]](https://gyazo.com/21ef9896222c2592c354ea5597cd7e3e)
+[![Product Name Screen Shot][product-screenshot]](https://i.gyazo.com/21ef9896222c2592c354ea5597cd7e3e.gif)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
