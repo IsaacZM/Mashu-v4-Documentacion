@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/IsaacZM/Mashu-v4-Documentacion">
-    <img src="https://cdn.discordapp.com/avatars/637351676956639262/24c260e9f8140e25917121c1b0142fbc.png?size=1024" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/avatars/637351676956639262/24c260e9f8140e25917121c1b0142fbc.png?size=1024" alt="Logo" width="125" height="125">
   </a>
 
   <h3 align="center">Mashu Kyrielight App/Bot (Discord)</h3>
@@ -52,7 +52,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [¿Que es este bot?](#sobre_el_bot)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -67,9 +67,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el bot
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://gyazo.com/21ef9896222c2592c354ea5597cd7e3e)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
